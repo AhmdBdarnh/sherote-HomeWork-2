@@ -1,0 +1,162 @@
+
+
+/*      home style        */
+.home-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 0 auto;
+  height: 70vh;
+}
+.home-main * {
+  margin: 7px;
+}
+
+button {
+  background-color: #008cba;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+button:hover {
+  background-color: #005f73;
+  transform: scale(1.05);
+}
+
+/*    header  style     */
+header {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-logo {
+  margin-right: 20px;
+  width: 130px;
+}
+
+/*       getALLshelters   style      */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.buttons-container {
+  margin-bottom: 20px;
+}
+
+.shelters-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  position: relative;
+}
+
+.shelter-name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.shelter-info {
+  margin-bottom: 5px;
+}
+
+.icon-buttons {
+  position: absolute;
+  top: 3px;
+  right: 6px;
+}
+
+.edit-icon,
+.delete-icon {
+  font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.edit-icon:hover,
+.delete-icon:hover {
+  color: #ff4500;
+}
+
+
+
+
+/* Updated CSS */
+.containerr {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+.form-container {
+  width: 300px; 
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-container input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-container input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.form-container input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+/* getById Style */
+
+
+.container {
+  padding-top: 50px; 
+}
+
+.card {
+  background-color: #f8f9fa; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; 
+  border-color: #0056b3;
+}
