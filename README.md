@@ -19,7 +19,7 @@ Assigment 3 -
 
 
 - to git the code from the repository:-
-  git clone https://github.com/AhmdBdarnh/sherote-HomeWork-2.git
+  git clone -b react-assigment https://github.com/AhmdBdarnh/sherote-HomeWork-2.git
 
 - to run the code :-
   npm i 
