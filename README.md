@@ -10,18 +10,18 @@ Currently, two official plugins are available:
 
 Assigment 3 - 
 
-//postman documentation  :-
+- postman documentation  :-
   https://documenter.getpostman.com/view/32174055/2sA2xb6b7D
 
 
-// figma desgin :-
+- figma desgin :-
   https://www.figma.com/file/4yOo5XrIBMdcyaTgJMOXRU/react-figma-ahmd?type=design&node-id=5%3A119&mode=design&t=IYRy9VONTdobPVGJ-1
 
 
-//to git the code from the repository:-
+- to git the code from the repository:-
   git clone https://github.com/AhmdBdarnh/sherote-HomeWork-2.git
 
-//to run the code :-
+- to run the code :-
   npm i 
   npm run dev
 
