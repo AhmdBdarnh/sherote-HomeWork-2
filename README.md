@@ -1,13 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
 Assigment 3 - 
 
 - postman documentation  :-
@@ -22,7 +12,7 @@ Assigment 3 -
   git clone -b react-assigment https://github.com/AhmdBdarnh/sherote-HomeWork-2.git
 
 - to run the code :-
-  npm i 
-  npm run dev
+  1- npm i 
+  2- npm run dev
 
 
